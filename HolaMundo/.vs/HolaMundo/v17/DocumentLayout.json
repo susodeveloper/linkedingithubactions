@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\curso\\practicafinal\\linkedingithubactions\\HolaMundo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A4B34DA-10F4-476B-952C-ED27A6397BE3}|HolaMundo\\HolaMundo.csproj|c:\\curso\\practicafinal\\linkedingithubactions\\holamundo\\holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A4B34DA-10F4-476B-952C-ED27A6397BE3}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{236C03C8-BA58-495F-84C8-37B6395B3EC5}|HolaMundo\\HolaMundo.csproj|c:\\curso\\practicafinal\\linkedingithubactions\\holamundo\\holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{236C03C8-BA58-495F-84C8-37B6395B3EC5}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +28,10 @@
               "RelativeDocumentMoniker": "HolaMundo\\Program.cs",
               "ToolTip": "C:\\curso\\practicafinal\\linkedingithubactions\\HolaMundo\\HolaMundo\\Program.cs",
               "RelativeToolTip": "HolaMundo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T21:29:37.641Z",
+              "WhenOpened": "2024-04-29T21:41:35.205Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

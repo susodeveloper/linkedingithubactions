@@ -1,0 +1,15 @@
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.exe
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.deps.json
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.runtimeconfig.json
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.dll
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\bin\Debug\net8.0\HolaMundo.pdb
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfoInputs.cache
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfo.cs
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.sourcelink.json
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.dll
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\refint\HolaMundo.dll
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.pdb
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\HolaMundo.genruntimeconfig.cache
+C:\curso\practicafinal\linkedingithubactions\HolaMundo\HolaMundo\obj\Debug\net8.0\ref\HolaMundo.dll
