@@ -7,7 +7,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /HolaMundo
-COPY ["https://github.com/susodeveloper/linkedingithubactions/blob/main/HolaMundo/HolaMundo/HolaMundo.csproj", "HolaMundo/"]
+COPY ["/HolaMundo/HolaMundo/HolaMundo.csproj", "HolaMundo/"]
 RUN dotnet restore "HolaMundo/HolaMundo.csproj"
 COPY . .
 WORKDIR "/HolaMundo/HolaMundo"
